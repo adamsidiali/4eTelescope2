@@ -3,13 +3,7 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-############ Telescope Core ############
-
 telescope:core
-
-############ Telescope Packages (Optional) ############
-
-# Note: all following packages depend on telescope:core; Additional internal dependencies are mentioned
 
 telescope:migrations
 telescope:api
@@ -40,6 +34,4 @@ telescope:theme-base
 telescope:theme-hubble
 telescope:update-prompt
 
-############ Your Custom Packages ############
-
-# my-custom-package
+4e-custom
